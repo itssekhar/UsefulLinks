@@ -1,0 +1,11 @@
+Activate virtual environments and work space set up
+
+If you are not in home directory change into home by using below command.
+PS C:\Users\somasekhar\work\RestDjango\djangorest> cd ~
+
+Activate python 3 virtual environment by using following command.
+PS C:\Users\somasekhar> .virtualenvs/venv3/scripts/activate
+
+change into work space directory and continue adding code on VScode.
+(venv3) PS C:\Users\somasekhar> cd work
+(venv3) PS C:\Users\somasekhar\work>
